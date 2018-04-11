@@ -5,6 +5,6 @@ public class JavaSmpl {
         String str = "Hello";
         String a = str.substring(4);
 
-        System.out.println(a+a);
+        System.out.println(a+a+a);
     }
 }
